@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Boomerang</string>
+    <string name="search_title">search_title</string>
+    <string name="cart">cart</string>
 </resources>
